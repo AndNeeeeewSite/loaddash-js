@@ -24,7 +24,7 @@ document.addEventListener('mousemove',
             x = event.clientX;
             div.style.marginLeft = x + 'px'
         },
-        10,
+        50,
         {
             leading:true,
             trailing:false,
